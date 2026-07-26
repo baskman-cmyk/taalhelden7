@@ -1,0 +1,5 @@
+AFBEELDINGEN LEESAVONTUUR
+
+- De 21 omslagillustraties in covers/ zijn speciaal voor deze app als eenvoudige SVG-vectorillustraties gemaakt. Ze mogen binnen deze app vrij worden gebruikt en aangepast.
+- De 12 losse dieren in assets/ zijn uitgesneden uit het door de gebruiker aangeleverde dierenblad.
+- Bij een goed antwoord kiest Leesavontuur willekeurig één van deze dieren. Bij een fout antwoord verschijnt geen dier.

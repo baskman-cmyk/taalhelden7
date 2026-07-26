@@ -1,0 +1,73 @@
+ID	Verhaal	Locatie	Afbeelding
+00	Aankomst in San Francisco	San Francisco	San fransisco/Panoramisch uitzicht op de baai (1) (1).png
+01	De meeuw die het broodje stal	San Francisco	San fransisco/San Francisco waterfront in watercolor (1) (1).png
+02	Meeuwen zorgen voor drukte	San Francisco	San fransisco/Pier 39 met zeeleeuwen en brug (1) (1).png
+03	Dagboek: de kabeltram	San Francisco	San fransisco/San Francisco kabeltram op de heuvel (1) (1).png
+04	Interview met een kabeltrambestuurder	San Francisco	San fransisco/Winding straat met bloemen en baai (1) (1).png
+05	De Golden Gate Bridge	San Francisco	San fransisco/Fietsers op de Golden Gate-brug (1) (1).png
+06	De scheve straat	San Francisco	San fransisco/Zonsondergang bij de Victoriaanse huizen (1) (1).png
+07	Op bezoek bij de zeeleeuwen	San Francisco	Monterey_Big_Sur/Monterey_Bay_Sea_Otter.png
+08	Een verrassing op Alcatraz	San Francisco	Monterey_Big_Sur/Point_Pinos_Lighthouse.png
+09	De mysterieuze mist	San Francisco	Monterey_Big_Sur/Big_Sur_Coast.png
+10	De schatkaart van Chinatown	San Francisco	San fransisco/Chinatown street scene in watercolor (1) (1).png
+11	De zeeotter met de steen	Monterey & Big Sur	Monterey_Big_Sur/California_Redwood_Grove.png
+12	Een reus uit de zee	Monterey & Big Sur	Monterey_Big_Sur/Monterey_Harbor_Whale_Watching.png
+13	De vuurtoren in de mist	Monterey & Big Sur	Monterey_Big_Sur/Big_Sur_Forest_Trail.png
+14	De brug van Bixby Creek	Monterey & Big Sur	Monterey_Big_Sur/Bixby_Creek_Bridge.png
+15	De verborgen waterval	Monterey & Big Sur	Monterey_Big_Sur/McWay_Falls.png
+16	De boom waarin je kunt wonen	Monterey & Big Sur	Yosemite/Yosemite_El_Capitan.png
+17	De brug van touw	Monterey & Big Sur	Yosemite/Yosemite_Mist_Trail_Steps.png
+18	De onverwachte gast	Monterey & Big Sur	Los_Angeles_California_Coast/Ventura_Harbor.png
+19	De eekhoorn met het geheim	Monterey & Big Sur	Yosemite/Yosemite_Valley_Meadow.png
+20	De zon zakt in de oceaan	Monterey & Big Sur	Monterey_Big_Sur/Big_Sur_Sunset.png
+21	De dolfijnenrace	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Los_Angeles_Malibu_Coast.png
+22	De pelikaan met geduld	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Santa_Barbara_Station.png
+23	Het zandkasteel dat bleef staan	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Santa_Monica_Beach_Sandcastle.png
+24	Een ster op de stoep	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Hollywood_Walk_of_Fame.png
+25	De filmtruc	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Los_Angeles_Filmset.png
+26	De papegaaiendief	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Echo_Park_Parrots.png
+27	De verdwenen surfplank	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Santa_Monica_Pier.png
+28	Het geheim van de voetafdrukken	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Santa_Monica_Beach.png
+29	De straatmuzikant	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Los_Angeles_Street_Musicians.png
+30	De geheime deur	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Griffith_Park.png
+31	De hond met een baan	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Southern_California_Surfers.png
+32	De sterrenkijker	Santa Barbara & Los Angeles	Los_Angeles_California_Coast/Griffith_Observatory.png
+33	De boom die geen boom is	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_National_Park.png
+34	De pratende rots	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Skull_Rock.png
+35	De hagedis die push-ups deed	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Jumbo_Rocks.png
+36	De cactus met de stekels	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Cholla_Cactus_Garden.png
+37	De schaduwzoeker	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Hidden_Valley.png
+38	Verdwaald tussen de rotsen	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Barker_Dam.png
+39	De rots die op een ei leek	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Keys_View.png
+40	De stille nacht in de woestijn	Op weg naar de woestijn	Los_Angeles_California_Coast/Joshua_Tree_Sunset.png
+41	De verdwenen schaduw	Op weg naar de woestijn	Death_Valley/Death_Valley_Zabriskie_Point.png
+42	Het dier met de grote oren	Op weg naar de woestijn	Zion/Zion_Bighorn_Sheep.png
+43	De steen met een gezicht	Op weg naar de woestijn	Monument_Valley_Arches/Mexican_Hat_Rock.png
+44	De reis naar een nieuwe wereld	Op weg naar de woestijn	Monument_Valley_Arches/Monument_Valley_Forrest_Gump_Road.png
+45	De eerste blik	De Grand Canyon	Grand_Canyon/Grand_Canyon_Panorama.png
+46	Wie heeft de kloof gemaakt?	De Grand Canyon	Grand_Canyon/Grand_Canyon_Colorado_River.png
+47	De vogel zonder vleugelslag	De Grand Canyon	Grand_Canyon/Grand_Canyon_Condor.png
+48	De echo uit de canyon	De Grand Canyon	Grand_Canyon/Grand_Canyon_Distant_View.png
+49	De muilezel op het smalle pad	De Grand Canyon	Grand_Canyon/Grand_Canyon_Mule_Train.png
+50	Het geheim van de gekleurde lagen	De Grand Canyon	Grand_Canyon/Grand_Canyon_Rim_View.png
+51	De eekhoorn zonder hoogtevrees	De Grand Canyon	Grand_Canyon/Grand_Canyon_Picnic_Area.png
+52	De ranger met de verrekijker	De Grand Canyon	Grand_Canyon/Grand_Canyon_Desert_View_Watchtower.png
+53	De steen uit het verleden	De Grand Canyon	Grand_Canyon/Grand_Canyon_Ruins.png
+54	De rivier helemaal beneden	De Grand Canyon	Page_Glen_Canyon/Colorado_River_Desert.png
+55	De nieuwsgierige raaf	De Grand Canyon	Bryce_Canyon/Bryce_Canyon_Hoodoos.png
+56	De wolken die schaduw maakten	De Grand Canyon	Page_Glen_Canyon/Horseshoe_Bend.png
+57	De oude boomstronk	De Grand Canyon	Yosemite/Yosemite_Valley_Meadow_Alternate.png
+58	De verdwenen pet	De Grand Canyon	Grand_Canyon/Grand_Canyon_Rim_Trail.png
+59	Het kleine bloemetje	De Grand Canyon	Bryce_Canyon/Bryce_Canyon_Queens_Garden.png
+60	De steen die glinsterde	De Grand Canyon	Page_Glen_Canyon/Antelope_Canyon.png
+61	Een onweer in de verte	De Grand Canyon	Page_Glen_Canyon/Glen_Canyon_Dam.png
+62	Afscheid van de Grand Canyon	De Grand Canyon	Bryce_Canyon/Bryce_Canyon_Wide_Overview.png
+63	Welkom op Route 66	Route 66	Monument_Valley_Arches/Monument_Valley_Forrest_Gump_Point.png
+64	De benzinepomp van vroeger	Route 66	Las_Vegas/Neon_Museum.png
+65	Het restaurant met de jukebox	Route 66	Las_Vegas/Fremont_Street.png
+66	De oude barbier	Route 66	Monument_Valley_Arches/Mexican_Hat.png
+67	De trein die nog steeds rijdt	Route 66	Monument_Valley_Arches/Monument_Valley_Scenic_Drive.png
+68	Op zoek naar de muurschildering	Route 66	Monument_Valley_Arches/Monument_Valley_Panorama.png
+69	De cowboy met de lasso	Route 66	Monument_Valley_Arches/Monument_Valley_Buttes.png
+70	Slapen in een oude treinwagon	Route 66	Las_Vegas/Las_Vegas_Strip_Night.png
+71	De klok van het oude station	Route 66	Las_Vegas/Welcome_to_Las_Vegas.png
